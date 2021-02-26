@@ -1,0 +1,4 @@
+baseURL = "https://curtaindudu-bascar55.vercel.app"
+languageCode = "en-us"
+title = "Best Curtains Modern Minimalism"
+theme = "hugo-theme-minos"
